@@ -4,7 +4,7 @@ collection: teaching
 type: "Master course"
 permalink: /teaching/CUHK
 venue: "Teaching Assistant, The Chinese University of Hong Kong"
-date: 2024-2025
+date: 2025
 location: "Hong Kong"
 ---
 
