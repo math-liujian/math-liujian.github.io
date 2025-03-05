@@ -20,8 +20,8 @@ main:
   #- title: "Blog Posts"
     #url: /year-archive/
     
-  - title: [CV](./assets/liujian_CV.pdf)
-    url: /cv/
+  - title: "CV"
+    url: /assets/liujian_CV.pdf/
    
     
   #- title: "Guide"
