@@ -10,7 +10,7 @@ location: "City, Country"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-$$Teaching Assistant, The Chinese University of Hong Kong$$
+$Teaching Assistant, The Chinese University of Hong Kong$
 
 ECLT5930B-SEEM5740B: Engineering Economics, 2024-2025
   
