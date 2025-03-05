@@ -19,6 +19,8 @@ Selected Published Papers
 
 2. **J. Liu**, [Z. Su](https://scholar.google.com/citations?user=UwDInqkAAAAJ&hl=en) and [H. Xu](https://www1.se.cuhk.edu.hk/~hfxu/index.html), Bayesian Distributionally Robust Nash Equilibrium and Its Application, 2024. To appear in ***Pacific Journal of Optimization***: Special issue dedicated to Prof. Terry Rockafellar on the occasion of his 90th birthday.
 
+3. **J. Liu** and [H. Xu](https://www1.se.cuhk.edu.hk/~hfxu/index.html), Robust Mean-Square-Variance Profit Nash-Bertrand Equilibrium in Price Competition under Multinomial Logit Demand, 2024. Submitted to ***Journal of Optimization Theory and Applications***.
+
 
 
 
