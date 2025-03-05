@@ -21,7 +21,7 @@ Selected Working Papers
 
 3. **J. Liu** and [H. Xu](https://www1.se.cuhk.edu.hk/~hfxu/index.html), Robust Mean-Square-Variance Profit Nash-Bertrand Equilibrium in Price Competition under Multinomial Logit Demand, [2024](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4894226). Submitted to ***Journal of Optimization Theory and Applications***.
 
-4. **J. Liu** and [H. Xu](https://www1.se.cuhk.edu.hk/~hfxu/index.html), Generalized Bayesian Nash Equilibrium in Supermodular Games, [2025]. Working paper.
+4. **J. Liu** and [H. Xu](https://www1.se.cuhk.edu.hk/~hfxu/index.html), Generalized Bayesian Nash Equilibrium in Supermodular Games, 2025. Working paper.
 
 
 
