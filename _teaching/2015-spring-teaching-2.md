@@ -10,6 +10,15 @@ location: "City, Country"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
+$$Teaching Assistant, The Chinese University of Hong Kong$$
+
+ECLT5930B-SEEM5740B: Engineering Economics, 2024-2025
+  
+SEEM5350: Numerical Optimization, 2021-2023
+  
+ENGG 2760D: Probability for Engineers, 2020-2024
+SEEM 3500: Quality Control and Management} \hfill \textit{2021-2022}
+
 Heading 1
 ======
 
