@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Jian Liu (刘健)"
   pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
+  bio              : ""
   location         : "Hong Kong"
   employer         : "Chinese University of Hong Kong"
   uri              : # URL
