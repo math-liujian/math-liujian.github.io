@@ -6,3 +6,4 @@ author_profile: true
 redirect_to: /assets/liujian_CV.pdf
 ---
 
+{% pdf "/assets/liujian_CV.pdf" %}
