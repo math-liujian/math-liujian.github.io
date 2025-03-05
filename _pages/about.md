@@ -15,9 +15,9 @@ My research interest lies in the discrete choice model and optimal decision-maki
 
 Selected Published Papers
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+1. **J. Liu**, H. Sun and H. Xu, Bayesian-Nash-Bertrand Equilibrium in Price Competition under Multinomial Logit Demand, 2024. To appear in the ***European Journal of Operational Research***.
 
-2. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
+2. **J. Liu**, Z. Su and H. Xu, Bayesian Distributionally Robust Nash Equilibrium and Its Application, 2024. To appear in ***Pacific Journal of Optimization***: Special issue dedicated to Prof. Terry Rockafellar on the occasion of his 90th birthday.
 
 
 
