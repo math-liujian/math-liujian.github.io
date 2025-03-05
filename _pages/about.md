@@ -8,7 +8,10 @@ redirect_from:
 ---
 
 Welcome!
-I am a fifth-year Ph.D. candidate in the [Department of Systems Engineering & Engineering Management](https://www.se.cuhk.edu.hk/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/) advised by Prof. [Huifu Xu](https://www1.se.cuhk.edu.hk/~hfxu/index.html). My research interest lies in the discrete choice model and optimal decision-making under uncertainty.
+I am a fifth-year Ph.D. candidate in the [Department of Systems Engineering & Engineering Management](https://www.se.cuhk.edu.hk/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/) advised by Prof. [Huifu Xu](https://www1.se.cuhk.edu.hk/~hfxu/index.html).
+Prior to my Ph.D., I obtained my Master's degree in the School of Mathematical Sciences from [Dalian University of Technology](https://en.dlut.edu.cn/) in 2020.
+
+My research interest lies in the discrete choice model and optimal decision-making under uncertainty. You can find my CV here.
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
