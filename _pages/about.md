@@ -23,6 +23,8 @@ Selected Working Papers
 
 4. **J. Liu** and [H. Xu](https://www1.se.cuhk.edu.hk/~hfxu/index.html), Generalized Bayesian Nash Equilibrium in Supermodular Games, 2025. Working paper.
 
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=hrbWg8RncpPN6nYrmCvbOm7fgGn83_5mGG8rIQdPB2g&cl=ffffff&w=a"></script>
+
 
 
 
