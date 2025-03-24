@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About"
+title: "Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome!
+Welcome to my homepage. 
 I am a fifth-year Ph.D. candidate in the [Department of Systems Engineering & Engineering Management](https://www.se.cuhk.edu.hk/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/) advised by Prof. [Huifu Xu](https://www1.se.cuhk.edu.hk/~hfxu/index.html).
 Prior to joining CUHK, I obtained my Master's degree in the [School of Mathematical Sciences](https://math.dlut.edu.cn/) from [Dalian University of Technology](https://en.dlut.edu.cn/) in 2020.
 
@@ -25,7 +25,7 @@ Selected Working Papers
 
 Contact me
 ======
-jianliu.cuhk@gmail.com
+Email: jianliu.cuhk@gmail.com; liujian@se.cuhk.edu.hk
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=hrbWg8RncpPN6nYrmCvbOm7fgGn83_5mGG8rIQdPB2g&cl=ffffff&w=a"></script>
 
