@@ -20,8 +20,8 @@ main:
   #- title: "Blog Posts"
     #url: /year-archive/
 
-  - title: "Award"
-    url: /assets/
+  - title: "Awards"
+    url: /teaching/ 
     
   - title: "CV"
     url: https://math-liujian.github.io/assets/liujian.pdf
