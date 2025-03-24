@@ -21,7 +21,7 @@ main:
     #url: /year-archive/
 
   - title: "Awards"
-    url: /awards/ 
+    url: /award/ 
     
   - title: "CV"
     url: https://math-liujian.github.io/assets/liujian.pdf
