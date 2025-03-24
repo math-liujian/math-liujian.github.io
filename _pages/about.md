@@ -11,7 +11,7 @@ Welcome to my homepage.
 I am a fifth-year Ph.D. candidate in the [Department of Systems Engineering & Engineering Management](https://www.se.cuhk.edu.hk/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/) advised by Prof. [Huifu Xu](https://www1.se.cuhk.edu.hk/~hfxu/index.html).
 Prior to joining CUHK, I obtained my Master's degree in the [School of Mathematical Sciences](https://math.dlut.edu.cn/) from [Dalian University of Technology](https://en.dlut.edu.cn/) in 2020.
 
-My research interest focuses on the discrete choice model and optimal decision-making under uncertainty. You can find my CV [here](https://math-liujian.github.io/assets/liujian.pdf), and you can connect me by email [jianliu.cuhk@gmail.com](mailtro:jianliu.cuhk@gmail.com; liujian@se.cuhk.edu.hk); [liujian@se.cuhk.edu.hk](maitro:liujian@se.cuhk.edu.hk).
+My research interest focuses on the discrete choice model and optimal decision-making under uncertainty. You can find my CV [here](https://math-liujian.github.io/assets/liujian.pdf), and you can connect me by email [jianliu.cuhk@gmail.com](mailtro:jianliu.cuhk@gmail.com); [liujian@se.cuhk.edu.hk](maitro:liujian@se.cuhk.edu.hk).
 
 Selected Working Papers
 ======
