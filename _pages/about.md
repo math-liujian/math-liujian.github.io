@@ -13,7 +13,7 @@ Prior to joining CUHK, I obtained my Master's degree in the [School of Mathemati
 
 My research interest focuses on the discrete choice model and optimal decision-making under uncertainty. You can find my CV [here](https://math-liujian.github.io/assets/liujian.pdf), and you can connect me by email [jianliu.cuhk@gmail.com](mailto:jianliu.cuhk@gmail.com); or [liujian@se.cuhk.edu.hk](mailto:liujian@se.cuhk.edu.hk).
 
-Selected Working Papers
+Publications
 ======
 1. **J. Liu**, [H. Sun](https://scholar.google.com/citations?user=1asZXWkAAAAJ&hl=en) and [H. Xu](https://www1.se.cuhk.edu.hk/~hfxu/index.html), Bayesian-Nash-Bertrand Equilibrium in Price Competition under Multinomial Logit Demand, [2025](https://www.sciencedirect.com/science/article/pii/S0377221725001390?ref=pdf_download&fr=RR-2&rr=925520efbe365df8). ***European Journal of Operational Research***.
 
