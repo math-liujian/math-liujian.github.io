@@ -25,10 +25,12 @@ Publications
 
 Projects
 ======
-1. **Limit-up Pattern Strategy (China A-share Market, 2019.01-2025.04)**. Annualized return: 133.06%, Sharpe ratio: 3.71, Max drawdown: -33.60%.
+1. **Limit-up Pattern Strategy (China A-share Market, 2019.01-2025.04)**.
+   Annualized return: 133.06%, Sharpe ratio: 3.71, Max drawdown: -33.60%.
    ![image](https://github.com/user-attachments/assets/66215378-fcf7-4226-a95a-d14be7ab43bc)
 
-2. **Volume-based Strategy (China A-share Market, 2019.01-2025.04)**. Annualized return: 55.34%, Sharpe ratio: 2.78, Max drawdown: -31.71%.
+2. **Volume-based Strategy (China A-share Market, 2019.01-2025.04)**.
+   Annualized return: 55.34%, Sharpe ratio: 2.78, Max drawdown: -31.71%.
   ![image](https://github.com/user-attachments/assets/9947db88-d639-43a1-985c-d4f91a2184a9)
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=hrbWg8RncpPN6nYrmCvbOm7fgGn83_5mGG8rIQdPB2g&cl=ffffff&w=a"></script>
